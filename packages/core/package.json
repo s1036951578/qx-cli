@@ -1,6 +1,6 @@
 {
    "name": "@qx-cli/core",
-   "version": "0.0.2",
+   "version": "0.0.3",
    "description": "> TODO: description",
    "author": "ty-jackey <kobe>",
    "homepage": "https://github.com/s1036951578/qx-cli#readme",
@@ -24,6 +24,6 @@
       "url": "https://github.com/s1036951578/qx-cli/issues"
    },
    "dependencies": {
-      "@qx-cli/utils": "^0.0.2"
+      "@qx-cli/utils": "^0.0.3"
    }
 }
