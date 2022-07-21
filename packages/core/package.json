@@ -23,5 +23,8 @@
    "bugs": {
       "url": "https://github.com/s1036951578/qx-cli/issues"
    },
-   "gitHead": "9d9745792b796efd0399158594d80187ddf8243e"
+   "gitHead": "27c0d6d0ebcce456f7e7f530e767b558f048434d",
+   "publishConfig": {
+      "access": "public"
+   }
 }
