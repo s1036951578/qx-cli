@@ -1,5 +1,5 @@
 {
-   "name": "@qx-cli/core",
+   "name": "@qx-cli-dev/core",
    "version": "1.0.1",
    "description": "> TODO: description",
    "author": "ty-jackey <kobe>",
@@ -23,5 +23,5 @@
    "bugs": {
       "url": "https://github.com/s1036951578/qx-cli/issues"
    },
-   "gitHead": "1dc94fe70886ed77c4f8919893d3d957b23be45a"
+   "gitHead": "2683636ed3adba13848ee2ba3ce655f2d5d97a33"
 }

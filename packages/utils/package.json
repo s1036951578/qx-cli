@@ -1,5 +1,5 @@
 {
-   "name": "@qx-cli/utils",
+   "name": "@qx-cli-dev/utils",
    "version": "1.0.1",
    "description": "> TODO: description",
    "author": "ty-jackey <kobe>",
@@ -26,7 +26,7 @@
    "dependencies": {
       "@imooc-cli/utils": "^1.1.3"
    },
-   "gitHead": "1dc94fe70886ed77c4f8919893d3d957b23be45a",
+   "gitHead": "2683636ed3adba13848ee2ba3ce655f2d5d97a33",
    "publishConfig": {
       "access": "public"
    }
