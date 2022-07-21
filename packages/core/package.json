@@ -25,5 +25,6 @@
    },
    "dependencies": {
       "@qx-cli/utils": "^0.0.4"
-   }
+   },
+   "gitHead": "aecbc24887593c012958079fbd2c7dc946283239"
 }

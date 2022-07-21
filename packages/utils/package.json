@@ -1,29 +1,33 @@
 {
-  "name": "@qx-cli/utils",
-  "version": "0.0.4",
-  "description": "> TODO: description",
-  "author": "ty-jackey <kobe>",
-  "homepage": "https://github.com/s1036951578/qx-cli#readme",
-  "license": "ISC",
-  "main": "lib/utils.js",
-  "directories": {
-    "lib": "lib",
-    "test": "__tests__"
-  },
-  "files": [
-    "lib"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/s1036951578/qx-cli.git"
-  },
-  "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
-  },
-  "bugs": {
-    "url": "https://github.com/s1036951578/qx-cli/issues"
-  },
-  "dependencies": {
-    "@imooc-cli/utils": "^1.1.3"
-  }
+   "name": "@qx-cli/utils",
+   "version": "0.0.4",
+   "description": "> TODO: description",
+   "author": "ty-jackey <kobe>",
+   "homepage": "https://github.com/s1036951578/qx-cli#readme",
+   "license": "ISC",
+   "main": "lib/utils.js",
+   "directories": {
+      "lib": "lib",
+      "test": "__tests__"
+   },
+   "files": [
+      "lib"
+   ],
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/s1036951578/qx-cli.git"
+   },
+   "scripts": {
+      "test": "echo \"Error: run tests from root\" && exit 1"
+   },
+   "bugs": {
+      "url": "https://github.com/s1036951578/qx-cli/issues"
+   },
+   "dependencies": {
+      "@imooc-cli/utils": "^1.1.3"
+   },
+   "gitHead": "aecbc24887593c012958079fbd2c7dc946283239",
+   "publishConfig": {
+      "access": "public"
+   }
 }
